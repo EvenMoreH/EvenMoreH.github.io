@@ -7,6 +7,6 @@
 2. Simple **Temperature Converter** so you won't need to 'google' that everytime you need a conversion (for baking your pies of course!)
 
 ### Upcomming tools that will show up on the page:
-- [ ] QR code generator
+- [x] QR code generator
 - [ ] Image(jpg/png) to .ico format converter (it will also cropp the image to square)
 - [ ] Weight and volume converter
